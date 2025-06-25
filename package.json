@@ -1,0 +1,13 @@
+{
+  "name": "islamic-knowledge-eleventy",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npx eleventy --serve",
+    "build": "npx eleventy"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy-plugin-rss": "^1.1.1",
+    "@quasibit/eleventy-plugin-sitemap": "^2.0.0"
+  }
+}
